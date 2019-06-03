@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'license_finder'
+require 'license_finder_rails_assets'
+LicenseFinder::CLI::Main.start
