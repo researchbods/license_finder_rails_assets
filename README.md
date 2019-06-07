@@ -1,6 +1,8 @@
 license_finder_rails_assets
 ===========================
 
+[![Build Status](https://travis-ci.org/researchbods/license_finder_rails_assets.svg?branch=master)](https://travis-ci.org/researchbods/license_finder_rails_assets)
+
 This gem extends [license_finder][license_finder], making it treat local asset files as packages.
 
 It's a bit experimental, which is why it's a gem and not a PR against
