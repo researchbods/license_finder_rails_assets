@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    license_finder_rails_assets (0.0.5)
+    license_finder_rails_assets (1.0.0)
       license_finder (~> 5.8)
 
 GEM
