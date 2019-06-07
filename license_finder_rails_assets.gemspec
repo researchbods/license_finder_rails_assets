@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
     for rails assets.
   DESCRIPTION
 
-  s.license = 'Proprietary'
+  s.license = 'MIT'
 
 
   s.add_dependency 'license_finder', '~> 5.8'
