@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.required_ruby_version = '>= 2.3.3'
   s.name = 'license_finder_rails_assets'
-  s.version = '1.0.0'
+  s.version = '1.0.1'
   s.authors = [
     'Telyn Roat'
   ]
