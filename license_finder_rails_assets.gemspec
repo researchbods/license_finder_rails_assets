@@ -21,6 +21,11 @@ Gem::Specification.new do |s|
 
   s.license = 'MIT'
 
+  s.metadata = {
+    "source_code_uri" => "https://github.com/researchbods/license_finder_rails_assets",
+    "bug_tracker_uri" => "https://github.com/researchbods/license_finder_rails_assets/issues",
+  }
+
   s.add_dependency 'license_finder', '~> 5.8'
   s.add_development_dependency 'fuubar', '~> 2.3'
   s.add_development_dependency 'guard', '~> 2.15'
